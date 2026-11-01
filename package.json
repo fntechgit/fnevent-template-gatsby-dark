@@ -1,8 +1,8 @@
 {
-  "name": "fnevent-tier1-default-theme-dark",
+  "name": "fnevent-template-gatsby-dark",
   "version": "1.0.0",
   "private": true,
-  "description": "fnEvent tier1 dark theme template",
+  "description": "Gatsby event theme template, dark",
   "author": "FNTech",
   "keywords": [
     "gatsby"
